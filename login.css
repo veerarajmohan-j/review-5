@@ -1,0 +1,62 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xVbHDgCxhMiI0RDjSatqVv6lxuotNzUsSw&usqp=CAU);
+  background-size: cover;
+  background-color:#fff
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .login-container {
+    background-image: url(https://wallpapercave.com/wp/wp5412909.jpg);
+    background-position:0cqmin;
+    background-color: #fff;
+    max-width: 400px;
+    margin: 80px auto;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    color: #fff;
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  .col{
+    background-color:ghostwhite;
+  }
+  p{
+    color: aliceblue;
+  }
